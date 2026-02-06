@@ -1,4 +1,4 @@
-# Titanic Survival Data Exploration
+# Titanic Survival Analysis | Python EDA & Visualization
 
 This project focuses on statistical and visual exploration of the Titanic dataset using Python libraries such as Pandas, Matplotlib, and Seaborn. The objective is to analyze the patterns and factors that influenced passenger survival.
 
